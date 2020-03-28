@@ -159,8 +159,7 @@ for(i=0;i<n;i++){
 
 
 
-//Priority UNIT starts here 
-//Priority = 1+ Waiting time / Estimated run time  
+
 
 
   completionTime[0] = bTime[0];
