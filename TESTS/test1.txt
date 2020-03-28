@@ -1,0 +1,57 @@
+levi@Asm0d3us-Hackb0x:~/Desktop/OS$ ./a.out 
+	 SCHEDULING STARTS HERE 
+
+Enter the total no of processes :1
+
+Please enter the BURST TIME of the Process    (1) : 1
+Please enter the ARRIVAL TIME of the Process  (1) : 1
+
+	 YOUR ENTERED VALUES ARE :
+
+
+	Process          : (1)  
+	Arrival Time     : 1
+	Burst Time       : 1
+
+
+	 NOTE : SORTING OF PROCESSES BEGINS HERE 
+
+	 NOTE : SORTING ENDED ! 
+
+	 UPDATED VALUES ARE AS FOLLOWS
+
+	Process          : (1)  
+	Arrival Time     : 1
+	Burst Time       : 1
+
+
+	 NOTE : CALCULATION OF WATITING TIME AND TURN AROUND TIME
+	 NOTE : Constraint : Arrival time <= execution time
+
+
+	 INTERMEDIATE VALUES ARE  : 
+
+
+	Process          : (1)  
+	Arrival Time     : 1
+	Burst Time       : 1
+	Waiting Time     : 0
+	Turn Around Time : 0
+
+
+		Priority Array  : 1.000000
+
+
+	Resultant Values are as follows : 
+
+	=============================================================================
+	| Process | Arrival Time | Burst Time |  Waiting Time  |  Turn Around Time  |
+	=============================================================================
+	|  P[1]   |       1      |     1      |        0       |         0          |
+	=============================================================================
+
+
+=========================================
+|  Average TURN AROUND TIME  : 0.000000 | 
+|  Average WATITING TIME     : 0.000000 | 
+=========================================
