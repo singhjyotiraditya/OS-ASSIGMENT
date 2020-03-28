@@ -169,12 +169,7 @@ for(i=0;i<n;i++){
     completionTime[i] = completionTime[i-1] + bTime[i];
   }
 
-  for(i=0;i<n;i++)
-  {
-    priority[i] = 1+wTime[i]/completionTime[i];
-    printf("\n\t\tPriority   : %lf\n",priority[i]);
-  }
-
+  
 
 
   printf("\n\n");
